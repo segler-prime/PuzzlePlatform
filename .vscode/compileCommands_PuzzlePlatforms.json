@@ -1,0 +1,47 @@
+[
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\MovingPlatform.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PlatformTrigger.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PlatformTrigger.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PuzzlePlatforms.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PuzzlePlatforms.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PuzzlePlatforms.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PuzzlePlatformsGameInstance.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\unreal projects\\PuzzlePlatform\\Source\\PuzzlePlatforms\\PuzzlePlatformsGameInstance.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\unreal projects\\PuzzlePlatform\\.vscode\\compileCommands_PuzzlePlatforms\\PuzzlePlatforms.211.rsp\"",
+		"directory": "E:\\unreal\\UE_5.0\\Engine\\Source"
+	}
+]
